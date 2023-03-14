@@ -1,0 +1,9 @@
+train: C:\Users\Asus\Desktop\Photos\YOLODataset/images/train/
+val: C:\Users\Asus\Desktop\Photos\YOLODataset/images/val/
+
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+
+nc: 5
+
+names: ['Karat3', 'Karat1', 'Karat2', 'Karat4', 'TungauLaba2Merah']
